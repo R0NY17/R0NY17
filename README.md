@@ -52,7 +52,11 @@
 
 ##  Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franklin-viegas-81a002213/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franklin-viegas-81a002213/)
+
+### My Secondary Github Acc.
+[![FrankV17](![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrankV17/FrankV17)
+
 - Reach out for collaboration, project ideas, or just to say hi!
 
 ---
