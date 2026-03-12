@@ -1,8 +1,13 @@
 # Namaste! I'm Franklin Viegas 👋
 
- I'm a tech enthusiast passionate about building practical solutions with **Machine Learning**, **Data Science**, and **AI**.
- I'm also curious and adept at developing software using C++ and JAVA.
- I love turning data into insights and ideas into apps.
+I'm a tech enthusiast passionate about building practical solutions with **Machine Learning**, **Data Science**, and **AI**.
+I enjoy turning complex datasets into actionable insights and developing scalable software using Python, C++, and Java.
+
+Currently exploring:
+• Applied Machine Learning
+• NLP & AI tools
+• Data Visualization
+• Cloud-based ML pipelines
 
 ---
 
@@ -52,10 +57,11 @@
 
 ##  Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franklin-viegas-81a002213/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franklin-viegas-81a002213)
 
-### My Secondary Github Acc.
-[![FrankV17](![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrankV17/FrankV17)
+
+### Secondary GitHub Account
+[![GitHub](https://img.shields.io/badge/GitHub-FrankV17-181717?style=for-the-badge&logo=github)](https://github.com/FrankV17)
 
 - Reach out for collaboration, project ideas, or just to say hi!
 
